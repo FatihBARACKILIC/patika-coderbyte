@@ -29,6 +29,6 @@ function MaxSubarray(arr) {
 }
 
 // keep this function call here
-console.log(">", MaxSubarray([-2, 0, 5, -1, 7, -3])) // 11
-console.log(">", MaxSubarray([1, -2, 0, 3])) // 3
-console.log(">", MaxSubarray([3, -1, -1, 4, 3, -1])) // 8
+console.log(MaxSubarray([-2, 0, 5, -1, 7, -3])) // 11
+console.log(MaxSubarray([1, -2, 0, 3])) // 3
+console.log(MaxSubarray([3, -1, -1, 4, 3, -1])) // 8
