@@ -29,7 +29,7 @@
 //   return newArr.reduce((a, b) => a + b, 0)
 // }
 
-// Best answer 10/10
+//> Best answer 10/10
 function MaxSubarray(arr) {
   let max = 0
   let sum = 0
