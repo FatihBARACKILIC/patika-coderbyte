@@ -16,6 +16,9 @@
 | [CodelandUsernameValidation] |   10/10   |
 |        [NumberSearch]        |   9/10    |
 |        [QuickKnight]         |   4/15    |
+|      [LetterCapitalize]      |   10/10   |
+|       [BracketMatcher]       |   8/10    |
+|      [PascalsTriangle]       |   15/15   |
 
 <!-- Links -->
 [FizzBuzz]: ./week-1/FizzBuzz.js
@@ -30,3 +33,6 @@
 [CodelandUsernameValidation]: ./week-4/1-CodelandUsernameValidation/
 [NumberSearch]: ./week-4/2-NumberSearch/
 [QuickKnight]: ./week-4/3-QuickKnight/
+[LetterCapitalize]: ./week-5/1-LetterCapitalize/
+[BracketMatcher]: ./week-5/2-BracketMatcher/
+[PascalsTriangle]: ./week-5/3-PascalsTriangle/
