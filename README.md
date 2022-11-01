@@ -22,6 +22,9 @@
 |       [ArrayChallenge]       |   0/10    |
 |       [MathChallenge]        |   9/10    |
 |     [MathChallenge-hard]     |   0/15    |
+|      [7-ArrayChallenge]      |   10/10   |
+|      [7-MathChallenge]       |   10/10   |
+|     [7-StringChallenge]      |   0/15    |
 
 <!-- Links -->
 [FizzBuzz]: ./week-1/FizzBuzz.js
@@ -42,3 +45,6 @@
 [ArrayChallenge]: ./week-6/1-ArrayChallenge/
 [MathChallenge]: ./week-6/2-MathChallenge/
 [MathChallenge-hard]: ./week-6/3-MathChallenge/
+[7-ArrayChallenge]: ./week-7/1-ArrayChallenge/
+[7-MathChallenge]: ./week-7/2-MathChallenge/
+[7-StringChallenge]: ./week-7/3-StringChallenge/
